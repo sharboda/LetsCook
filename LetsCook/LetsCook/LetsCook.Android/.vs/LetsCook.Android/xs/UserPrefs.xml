@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{27BD978B-7987-4ABC-949D-DFE4CA878F72}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MainActivity.cs">
+    <Files>
+      <File FileName="MainActivity.cs" Line="21" Column="39" />
+      <File FileName="ChooseVegActivity.cs" Line="27" Column="68" />
+      <File FileName="Resources/menu/left_menu_items.xml" Line="8" Column="36" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LetsCook.Android" expanded="True">
+            <Node name="LetsCook.Android" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="Packages" selected="True" />
+              <Node name="Resources" expanded="True">
+                <Node name="layout" expanded="True" />
+                <Node name="menu" expanded="True" />
+                <Node name="values" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.LetsCook.Android AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Nexus_4_API_22" />
+</Properties>

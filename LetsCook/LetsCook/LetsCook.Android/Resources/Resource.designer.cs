@@ -62,8 +62,8 @@ namespace LetsCook.Droid
 			// aapt resource value: 0x7f050006
 			public const int editText1 = 2131034118;
 			
-			// aapt resource value: 0x7f050009
-			public const int gridView1 = 2131034121;
+			// aapt resource value: 0x7f05000a
+			public const int gridView1 = 2131034122;
 			
 			// aapt resource value: 0x7f050005
 			public const int linearLayout1 = 2131034117;
@@ -71,11 +71,14 @@ namespace LetsCook.Droid
 			// aapt resource value: 0x7f050001
 			public const int listViewVeg = 2131034113;
 			
+			// aapt resource value: 0x7f050009
+			public const int privacyPolicy = 2131034121;
+			
 			// aapt resource value: 0x7f050000
 			public const int textView1 = 2131034112;
 			
-			// aapt resource value: 0x7f05000a
-			public const int webView1 = 2131034122;
+			// aapt resource value: 0x7f05000b
+			public const int webView1 = 2131034123;
 			
 			static Id()
 			{
@@ -97,10 +100,13 @@ namespace LetsCook.Droid
 			public const int Main = 2130903041;
 			
 			// aapt resource value: 0x7f030002
-			public const int ShowRecipes = 2130903042;
+			public const int PrivacyPolicy = 2130903042;
 			
 			// aapt resource value: 0x7f030003
-			public const int ShowVideos = 2130903043;
+			public const int ShowRecipes = 2130903043;
+			
+			// aapt resource value: 0x7f030004
+			public const int ShowVideos = 2130903044;
 			
 			static Layout()
 			{

@@ -4,6 +4,21 @@
     p1:layout_width="match_parent"
     p1:layout_height="match_parent"
     p1:id="@+id/linearLayout1">
+<!--<android.support.v4.widget.DrawerLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/drawer_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <ListView
+        p1:id="@+id/navList"
+        p1:layout_width="200dp"
+        p1:layout_height="match_parent"
+        p1:layout_gravity="left|start"
+        p1:background="#ffeeeeee"
+        />
+    </android.support.v4.widget.DrawerLayout>
+-->
     <EditText
         p1:layout_width="match_parent"
         p1:layout_height="wrap_content"

@@ -17,7 +17,8 @@ namespace LetsCook.Droid
 }
     
     [Activity(Label = "Lets Cook!!", MainLauncher = true, Icon = "@mipmap/icon")]
-    public class MainActivity : Activity
+    //public class MainActivity : Activity
+    public class MainActivity : AppCompatActivity
     {
         int count = 1;
 
